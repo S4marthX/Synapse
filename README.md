@@ -47,6 +47,9 @@ Designed for speed, simplicity, and a beautiful writing experience.
 
 ![App Architecture](assets/App_Structure.png)
 ---
+## Download
+
+[⬇️ Download APK](https://drive.google.com/file/d/133s2bzId-9FUmyEb5ISOdW-dcQmMJC85/view?usp=sharing)
 
 ## Getting Started
 
