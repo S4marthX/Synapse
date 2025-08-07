@@ -52,4 +52,4 @@ Designed for speed, simplicity, and a beautiful writing experience.
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/S4marthX/NoteApp.git
+git clone https://github.com/S4marthX/Synapse.git
