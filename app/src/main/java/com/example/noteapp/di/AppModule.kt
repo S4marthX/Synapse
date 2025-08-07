@@ -46,5 +46,4 @@ object AppModule {
             getNode = GetNote(repository)
         )
     }
-
 }
