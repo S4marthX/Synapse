@@ -95,6 +95,7 @@ fun AddEditNoteScreen(
                 .fillMaxSize()
                 .background(noteBackgroundAnimate.value)
                 .padding(it)
+                .padding(start = 16.dp,end = 16.dp)
         ){
             Row (
                 modifier = Modifier
@@ -157,7 +158,7 @@ fun AddEditNoteScreen(
                 onFocusChange = {
                     viewModel.onEvent(AddEditNoteEvent.ChangeContentFocus(it))
                 },
-                textStyle = MaterialTheme.typography.bodySmall,
+                textStyle = MaterialTheme.typography.bodyLarge,
                 isHintVisible = contentState.isHintVisible,
                 modifier = Modifier.fillMaxHeight()
             )

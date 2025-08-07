@@ -28,7 +28,7 @@ fun DefaultRadioButton(
             onClick = onSelect,
             colors = RadioButtonDefaults.colors(
                 selectedColor = MaterialTheme.colorScheme.primary,
-                unselectedColor = MaterialTheme.colorScheme.background
+                unselectedColor = MaterialTheme.colorScheme.onSurfaceVariant
             )
         )
         Spacer(modifier = Modifier.width(8.dp))

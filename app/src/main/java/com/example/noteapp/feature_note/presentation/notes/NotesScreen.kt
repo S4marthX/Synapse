@@ -67,7 +67,7 @@ fun NotesScreen(
 
     ){
         Column (
-            modifier = Modifier.fillMaxSize().padding(it)
+            modifier = Modifier.fillMaxSize().padding(it).padding(start = 16.dp,end = 16.dp)
         ){
             Row (
                 modifier = Modifier.fillMaxWidth(),
@@ -112,7 +112,7 @@ fun NotesScreen(
                                 //navigate to add/edit screen
                                 navController.navigate(
                                     Screen.AddEditNoteScreen.route +
-                                        "?noteId = ${note.id} & noteColor${note.color}"
+                                        "?noteId=${note.id}&noteColor=${note.color}"
                                 )
                             },
                         note = note,
