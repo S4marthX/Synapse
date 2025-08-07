@@ -32,10 +32,18 @@ Designed for speed, simplicity, and a beautiful writing experience.
 
 ## Screenshots
 
-> Example:  
-> ![Notes List](assets/notes_screen.png)  
-> ![Add Note](assets/add_note.png)
-> ![Architecture](assets/App_Structure.png) 
+> Example:
+> ### Notes List Screen
+
+<p align="center">
+  <img src="assets/notes_screen.png" width="300"/>
+</p>
+
+### Add Note Screen
+
+<p align="center">
+  <img src="assets/add_note.png" width="300"/>
+</p>
 
 ---
 
