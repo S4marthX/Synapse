@@ -45,6 +45,7 @@ Designed for speed, simplicity, and a beautiful writing experience.
   <img src="assets/add_note.png" width="300"/>
 </p>
 
+![App Architecture](assets/App_Structure.png)
 ---
 
 ## Getting Started
